@@ -18,6 +18,10 @@ The database consists of the following tables:
 11. reservation_Status: Tracks the status of reservations.
 12. booking_system: Relates booking details with login credentials, train schedules, stations, and trains.
 
+# ER Diagram
+
+<img src="https://github.com/elliotalien/MySQL/blob/main/MySQL/DB%20ERR%20IMAGE.png" height="100%" width="100">
+
 ## Usage
 
 - Database Setup: Execute the provided SQL statements to create the necessary tables in your MySQL database.
