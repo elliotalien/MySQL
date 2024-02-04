@@ -20,7 +20,7 @@ The database consists of the following tables:
 
 # ER Diagram
 
-<img src="https://github.com/elliotalien/MySQL/blob/main/MySQL/DB%20ERR%20IMAGE.png" height="100%" width="100">
+<img src="https://github.com/elliotalien/MySQL/blob/main/MySQL/DB%20ERR%20IMAGE.png" height="100%" width="100%">
 
 ## Usage
 
