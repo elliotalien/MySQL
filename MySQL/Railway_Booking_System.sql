@@ -241,6 +241,7 @@ VALUES
 
 
 -- TRAIN COMPARTMENT
+
 CREATE TABLE train_compartment(
     compartment_id VARCHAR(10) PRIMARY KEY,
     compartment_name VARCHAR(100)
@@ -261,6 +262,7 @@ VALUES
 
 
 -- passenger selected train
+
 CREATE TABLE selected_train(
     selected_train_id VARCHAR(10) PRIMARY KEY,
     TrainID VARCHAR(10),
@@ -315,6 +317,7 @@ VALUES
 
 
 -- PAYMENT METHOD
+
 CREATE TABLE Payment_method(
     PaymentID VARCHAR(10) PRIMARY KEY,
     Passenger_ID VARCHAR(10),
